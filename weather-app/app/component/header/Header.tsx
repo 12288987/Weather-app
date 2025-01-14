@@ -3,7 +3,7 @@ import React from 'react'
 const Header = () => {
   return (
     <>
-        <div className='flex justify-between bg-sky-300 h-12 items-center px-6'>
+        <div className='flex justify-between bg-sky-300 h-12 items-center px-6 font-bold'>
             <div>Weather</div>
             <div>Creadit</div>
         </div>
